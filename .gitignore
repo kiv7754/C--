@@ -1,0 +1,8 @@
+# Chặn tất cả các file thực thi có đuôi .exe
+*.exe
+
+# Chặn các thư mục cấu hình rác của VS Code nếu cần
+.vscode/
+
+# Chặn các file tạm hoặc file log
+*.log
